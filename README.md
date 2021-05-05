@@ -8,4 +8,4 @@ This project is a simple implementation of a night light using Arduino technolog
 
 ![](assets/physical.jpg)
 
-<img src="https://media.giphy.com/media/iRRqj3Bcw3WKrlgfY1/giphy.gif" width="1000" height="600"/>
+![](assets/video.gif)
